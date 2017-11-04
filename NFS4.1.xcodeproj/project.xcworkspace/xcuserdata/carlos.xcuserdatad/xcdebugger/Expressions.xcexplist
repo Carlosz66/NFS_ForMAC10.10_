@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PlayerAreaView paintWaveFormView]:PlayerAreaView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SingleWavFormView MyInit]:SingleWavFormView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SingleWavFormView paint]:SingleWavFormView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CreateLibraryWizardView tableView:setObjectValue:forTableColumn:row:]:CreateLibraryWizardViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSNumber numberWithInt:[EnumHelper StringToSoundTypeEnum:self.SoundTypeComboBox.stringValue]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlayerAreaView getSingleWavImageRect]:PlayerAreaView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.wavFormScrollView.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyScrollView scrollWheel:]:MyScrollView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "theEvent.scrollingDeltaY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Player ResetSound:]:Player.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sound.AudioFiles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ScriptAreaView outlineView:objectValueForTableColumn:byItem:]:ScriptAreaView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ScriptAreaView outlineView:child:ofItem:]:ScriptAreaView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lib.SubSounds.count-1">
+            </PersistentString>
+            <PersistentString
+               value = "lib.SubSounds.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

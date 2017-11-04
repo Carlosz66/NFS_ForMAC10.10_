@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'NFS4.1' target in the 'NFS4.1' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
